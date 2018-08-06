@@ -1,0 +1,12 @@
+.self {
+    display: flex;
+    height: 120px;
+    background-color: hotpink;
+    align-items: center;
+    font-size: 30px;
+    justify-content: flex-end;
+    /*justify-content: space-between;*/
+}
+.bj {
+    margin: 0px 10px 0px 10px;
+}

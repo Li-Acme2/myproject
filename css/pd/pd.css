@@ -1,0 +1,70 @@
+.pd {
+    display: none;
+    position: absolute;
+    width: 980px;
+    height: 100%;
+}
+.left {    height: 100%;    display: flex;    flex-flow: row;}
+.left1 {    width: 80%;    height: 100%;}
+.left11 {    height: 93.6%;    overflow: scroll;}
+.left111 {    display: flex;    height: 131.3%;    flex-flow: column;}
+
+.lfont {    list-style: none;    font-size: 30px;    font-weight: 300;}
+.left111-1 {    height: 20%;    width: 100%;    background-color: hotpink;}
+.left111-11 {    display: flex;    height: 67%;}
+.left111-111 {    display: flex;  border-radius: 50%; border: white 2px solid; width: 25%; height:50%;background-image: url(../icon/斑点猫.png);
+    background-repeat: no-repeat;background-size: cover;margin: 65px 0px 10px 60px;    background-color: white}
+.left111-112 {    display: flex; border-radius: 50%;  width: 10%;height:25%;border: white 2px solid;background-image: url(../icon/钱包.svg);
+    background-repeat: no-repeat;background-size: cover;margin: 65px 0px 10px 200px;}
+.left111-113 {    display: flex; border-radius: 50%;  width: 10%;height:25%;border: white 2px solid;background-image: url(../icon/二维码.svg);
+    background-repeat: no-repeat;background-size: cover;margin: 65px 0px 10px 50px;}
+.left111-12 {    display: flex;   height: 15%;    align-items: center;    color: white;}
+.left111-13 { display: flex;    height: 15%;    align-items: center;    color:white;  opacity: 0.6;}
+.left111-2 {
+    height: 4%;    width: 100%;
+    display: flex;
+    background-color: #FFEC8B;
+    align-items: center;    color: darkorange;
+}
+.left111-121 {  display: flex ;   height: 35px; width: 65px;  justify-content: center;   color: white; border: white 3px solid; border-radius: 10px;}
+.left111-122 {  display: flex;    height: 35px;  width: 130px;   justify-content: center;   color: hotpink;
+    border: white 3px solid; border-radius: 10px; background-color: khaki}
+.left111-3 {
+     display: flex;    flex: 1;width: 100%; flex-flow: column;    background-color: white;justify-content:space-around ; }
+.left111-31 {display:flex;height: 4%;color: black;width: 100%;font-size: 30px;align-items: center;background-size:
+        contain;background-repeat: no-repeat;margin: 10px 0px 10px 50px;}
+.left12 {
+    display: flex;
+    height: 6.3%;
+    align-items: center;
+    background-color: white;
+}
+.margin1 {    margin: 0px 0px 0px 50px;}
+.left121 {
+    display: flex;
+    height: 83px;    width: 15%;
+    background-image: url(../icon/设置_44.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.left122{
+    display: flex;
+    height: 83px;    width: 15%;
+    background-image: url(../icon/主题.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.left123 {
+    display: flex;
+    height: 83px;    width: 15%;
+    background-image: url(../icon/夜间模式.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.left2 {
+    height: 100%;    width: 300px;
+    opacity: 0.6;    background-color: black;
+}

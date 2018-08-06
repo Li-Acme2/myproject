@@ -1,0 +1,30 @@
+.videoson7 {
+    height: 500px;
+    width: 450px;
+}
+.videoson7-1 {
+    height: 67%;
+    background-image: url(../icon/血小板.jpg);
+    background-size: cover;
+}
+.videoson7-2 {
+    height: 13%;
+    width: 90%;
+}
+.videoson7-3 {
+    display: flex;
+    justify-content: center;
+    height: 13%;
+    width: 410px;
+}
+.videoson7-3-1 {
+    width: 95%;
+    color: gray;
+}
+.videoson7-3-2 {
+    height: 45px;
+    width: 50px;
+    background-size: cover;
+    background-image: url(../icon/44_点点点.svg);
+
+}

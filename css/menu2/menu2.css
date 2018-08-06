@@ -1,0 +1,51 @@
+.menu2 {
+    display: flex;
+    /*height: 90px;*/
+    width: 100%;
+    /*justify-content: space-around;*/
+    background-color: white;
+    align-items: center;/*纵向居中*/
+    color: gray;
+    font-size: 32px;
+    font-weight: 500;
+    margin: 10px 0px 10px 0px;
+}
+.menu2-kong {
+    width: 200px;
+}
+.margin {
+    margin: 0px 20px 0px 20px;
+}
+.menu2-1 {
+    width: 110px;
+
+}
+.menu2-2 {
+    width: 300px;
+}
+.menu2-3 {
+    display: flex;
+    justify-content: flex-end;
+    width: 100px;
+    height: 70px;
+    background-image: url("../icon/排行榜_44.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.menu2-4 {
+    width: 95px;
+    height: 70px;
+    background-image: url("../icon/首页-标签_44.svg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.menu2-5 {
+width: 130px;
+}
+.menu2-6 {
+    width: 90px;
+}

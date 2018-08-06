@@ -1,0 +1,233 @@
+
+
+.news {
+    display: flex;
+    width: 100%;
+    overflow: scroll;
+    /*background-color: #9c27b0;*/
+    flex-flow: column;
+}
+.news0 {
+    display: flex;
+    width: 100%;
+    height: 65px;
+    background-color: white;
+    font-size: 32px;
+    align-items: center;
+}
+.news1 {
+    display: flex;
+    height: 140px;
+    width: 100%;
+    background-color: white;
+
+}
+.news11 {
+    display: flex;
+    width: 120px;
+    background-image: url("icon/头像1.png");
+    background-size: cover;
+    border-radius: 50%;
+    margin: 10px 0px 10px 15px;
+}
+.news12 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 20px;
+    flex-flow: column;
+}
+.news121 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news122 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news2 {
+    display: flex;
+    height: 140px;
+    width: 100%;
+    background-color: white;
+ }
+.news21 {
+    display: flex;
+    width: 120px;
+    background-image: url("icon/头像2.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    margin: 10px 0px 10px 15px;
+}
+.news22 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 20px;
+    flex-flow: column;
+}
+.news221 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news222 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news3 {
+    display: flex;
+    height: 140px;
+    width: 100%;
+    background-color: white;
+  }
+.news31 {
+    display: flex;
+    width: 120px;
+    background-image: url("icon/头像3.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    margin: 10px 0px 10px 15px;
+}
+.news32 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 20px;
+    flex-flow: column;
+}
+.news321 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news322 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news4 {
+    display: flex;
+    height: 140px;
+    width: 100%;
+    background-color: white;
+}
+.news41 {
+    display: flex;
+    width: 120px;
+    background-image: url("icon/头像4.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    margin: 10px 0px 10px 15px;
+}
+.news42 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 20px;
+    flex-flow: column;
+}
+.news421 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news422 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news5 {
+    display: flex;
+    height: 140px;
+    width: 100%;
+    background-color: white;
+}
+.news51 {
+    display: flex;
+    width: 120px;
+    background-image: url("icon/东软刘积仁.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    margin: 10px 0px 10px 15px;
+}
+.news52 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 20px;
+    flex-flow: column;
+}
+.news521 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news522 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news6 {
+    display: flex;
+    height: 140px;
+    width: 100%;
+    background-color: white;
+ }
+.news61 {
+    display: flex;
+    width: 120px;
+    background-image: url("icon/头像6.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    margin: 10px 0px 10px 15px;
+}
+.news62 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 20px;
+    flex-flow: column;
+}
+.news621 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news622 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news7 {
+    display: flex;
+    height: 140px;
+    width: 100%;
+    /*background-color: blue;*/
+}
+.news71 {
+    display: flex;
+    width: 120px;
+    background-image: url("icon/头像7.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    margin: 10px 0px 10px 15px;
+}
+.news72 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 20px;
+    flex-flow: column;
+}
+.news721 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+.news722 {
+    display: flex;
+    width: 820px;
+    margin: 10px 0px 10px 10px;
+}
+
+
+
+
+

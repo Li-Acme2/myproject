@@ -1,0 +1,10 @@
+.self2 {
+    display: flex;
+    height: 70px;
+    width: 100px;
+    align-items: center;
+    justify-content: flex-end;/*行对齐*/
+    background-size:cover;
+    background-position: center;
+    background-image: url("../icon/购物.svg");
+}

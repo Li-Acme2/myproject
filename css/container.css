@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 宋体;
+}
+
+.container {
+    position: fixed;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    /*background-color: orange;*/
+    flex-flow: column;
+}
+.border {
+    border: 2px black solid;
+    border-radius: 15px;
+}

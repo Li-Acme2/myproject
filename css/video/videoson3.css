@@ -1,0 +1,30 @@
+.videoson3 {
+    height: 500px;
+    width: 450px;
+}
+.videoson3-1 {
+    height: 67%;
+    background-image: url(../icon/五五开.jpg);
+    background-size: cover;
+}
+.videoson3-2 {
+    height: 13%;
+    width: 90%;
+}
+.videoson3-3 {
+    display: flex;
+    justify-content: center;
+    height: 13%;
+    width: 410px;
+}
+.videoson3-3-1 {
+    width: 95%;
+    color: gray;
+}
+.videoson3-3-2 {
+    height: 45px;
+    width: 50px;
+    background-size: cover;
+    background-image: url(../icon/44_点点点.svg);
+
+}

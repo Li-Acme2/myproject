@@ -1,0 +1,30 @@
+.videoson4 {
+    height: 500px;
+    width: 450px;
+}
+.videoson4-1 {
+    height: 67%;
+    background-image: url(../icon/米8.jpg);
+    background-size: cover;
+}
+.videoson4-2 {
+    height: 13%;
+    width: 90%;
+}
+.videoson4-3 {
+    display: flex;
+    justify-content: center;
+    height: 13%;
+    width: 410px;
+}
+.videoson4-3-1 {
+    width: 95%;
+    color: gray;
+}
+.videoson4-3-2 {
+    height: 45px;
+    width: 50px;
+    background-size: cover;
+    background-image: url(../icon/44_点点点.svg);
+
+}

@@ -1,0 +1,89 @@
+.yingshi1 {
+    display: flex;
+    height: 480px;
+    width: 100%;
+    flex-flow: column;
+    align-items: center;
+    margin: 10px 0px 0px 0px;
+}
+.yingshi11 {
+    display: flex;
+    height: 380px;
+    width: 900px;
+    background-image: url("icon/影视lb-5.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 15px;
+}
+.yingshi12 {
+    height: 200px;
+    width: 100%;
+    margin: 20px 0px 0px 0px;
+    background-image: url("icon/影视.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/*.yingshi121 {*/
+    /*height: 100px;*/
+    /*width: 300px;*/
+    /*background-image: url(icon/点评.png);*/
+    /*background-size: cover;*/
+    /*background-position: center;*/
+/*}*/
+/*.yingshi122 {*/
+    /*width: 250px;*/
+    /*height: 80px;*/
+    /*background-image: url("icon/时间表.svg");*/
+    /*background-size: contain;*/
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+/*}*/
+/*.yingshi123 {*/
+    /*width: 200px;*/
+    /*height: 80px;*/
+    /*background-image: url(icon/索引.svg);*/
+    /*background-size: contain;*/
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+/*}*/
+.yingshi2 {
+    display: flex;
+    height: 1000px;
+    background-image: url(icon/正在热播.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.yingshi3 {
+    display: flex;
+    height: 1000px;
+    background-image: url(icon/经典推荐.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.yingshi4 {
+    display: flex;
+    height: 1000px;
+    background-image: url(icon/记录片.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.yingshi5 {
+    display: flex;
+    height: 1000px;
+    background-image: url(icon/电影.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.yingshi5 {
+    display: flex;
+    height: 1000px;
+    background-image: url(icon/电视剧.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}

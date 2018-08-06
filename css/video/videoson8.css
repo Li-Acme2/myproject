@@ -1,0 +1,30 @@
+.videoson8 {
+    height: 500px;
+    width: 450px;
+}
+.videoson8-1 {
+    height: 67%;
+    background-image: url(../icon/熊猫.jpg);
+    background-size: cover;
+}
+.videoson8-2 {
+    height: 13%;
+    width: 90%;
+}
+.videoson8-3 {
+    display: flex;
+    justify-content: center;
+    height: 13%;
+    width: 410px;
+}
+.videoson8-3-1 {
+    width: 95%;
+    color: gray;
+}
+.videoson8-3-2 {
+    height: 45px;
+    width: 50px;
+    background-size: cover;
+    background-image: url(../icon/44_点点点.svg);
+
+}
